@@ -2,7 +2,7 @@
 
 ## 📌 About 
 
-This repository contains supplemental code examples, datasets, and additional resources corresponding to posts from Flocode's Substack. Flocode aims to demystify the world of coding for engineers, emphasizing efficiency, open-source ethos, and future-proofing engineering practices. For more information, visit our [Substack page](Your-Substack-Link-Here).
+This repository contains supplemental code examples, datasets, and additional resources corresponding to posts from Flocode's Substack. Flocode aims to demystify the world of coding for engineers, emphasizing efficiency, open-source ethos, and future-proofing engineering practices. For more information, visit our [Substack page](Your-Substack-Link-Here) or [flocode.dev](flocode.dev).
 
 ## 🎯 Why This Repository Matters
 
